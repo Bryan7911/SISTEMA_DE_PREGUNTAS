@@ -1,0 +1,2278 @@
+[ 
+    {
+        "categoria": "Física",
+        "pregunta": "El tiempo que tarda en recorrer una distancia de 100 metros un automóvil que tiene una velocidad de 25 m/s es:",
+        "respuesta": "4 s",
+        "incorrecta1": "2 s",
+        "incorrecta2": "3 s",
+        "incorrecta3": "5 s"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "La temperatura mas baja es:",
+        "respuesta": "0° K",
+        "incorrecta1": "0° C",
+        "incorrecta2": "273° K",
+        "incorrecta3": "32° F"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Un paracaidista está cayendo con una velocidad constante. Durante esa caída, considerando al paracaidista en  relación al nivel del suelo, es correcto afirmar que:",
+        "respuesta": "Su energia cinética se mantiene constante",
+        "incorrecta1": "Su energia potencial gravitacional se mantiene constante",
+        "incorrecta2": "Su energia potencial gravitacional está aumentando",
+        "incorrecta3": "Su energia cinética está disminuyendo"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál identificación es incorrecta de los elementos enumerados?",
+        "respuesta": "Au, Plata",
+        "incorrecta1": "C, Carbono",
+        "incorrecta2": "Cd, Cadmio",
+        "incorrecta3": "S, Azufre"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Cuál de los siguientes incisos describe un cambio físico?",
+        "respuesta": "Agua hirviendo",
+        "incorrecta1": "Combustión de carbón mineral",
+        "incorrecta2": "Hacer que el pan suba con bicarbonato",
+        "incorrecta3": "Ignición"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Convierta 9,5 pies a cm. (1 pie = 30,48 cm)",
+        "respuesta": "289.56 cm",
+        "incorrecta1": "45 cm",
+        "incorrecta2": "2.9 x 10<sup>2</sup> cm",
+        "incorrecta3": "24 cm"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Si tres conjuntos de mediciones dan 3.20, 3.15 y 3.22, ¿cuál es el promedio?",
+        "respuesta": "3.19",
+        "incorrecta1": "9.57",
+        "incorrecta2": "4.57",
+        "incorrecta3": "2.57"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál de los siguientes elementos químicos, no es un metal?",
+        "respuesta": "O",
+        "incorrecta1": "Al",
+        "incorrecta2": "Zn",
+        "incorrecta3": "Hg"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuántos átomos de carbono tiene el CH<sub>3</sub> OCH<sub>3</sub> C<sub>2</sub> H<sub>5</sub>?",
+        "respuesta": "4",
+        "incorrecta1": "3",
+        "incorrecta2": "6",
+        "incorrecta3": "5"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Al medir la temperatura se emplean distintas escalas, las más usadas son las que utilizan grados Celsius y grados Farenheit, y una equivalencia entre las dos escalas y está dada por la ecuación:",
+        "respuesta": "°C = 100([F-32] / 180)",
+        "incorrecta1": "°C = 100(F / 180)",
+        "incorrecta2": "°P = 180([F-90] / 100)",
+        "incorrecta3": "°F = 90([C-32] / 180)"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "La gráfica de la parábola en su forma general está dada:<br>y<sup>2</sup> + Dx + Ey + F = 0, entonces:",
+        "respuesta": "El eje de la parábola es paralelo al eje 'x'",
+        "incorrecta1": "El eje de la parábola es paralelo al eje 'y'",
+        "incorrecta2": "La parábola se abre hacia arriba",
+        "incorrecta3": "La parábola se abre hacia abajo"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Un reloj se atrasa 2 minutos en cada hora. Si se sincroniza a las 0:00 horas con otro que marca la hora correcta, ¿Qué hora marcará el reloj defectuoso cuando el bueno marque las 2pm?",
+        "respuesta": "13:32 p.m.",
+        "incorrecta1": "13:15 p.m.",
+        "incorrecta2": "14:13 p.m.",
+        "incorrecta3": "14:05 p.m."
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El área de un cuadrado es equivalente a 16 veces el área de otro cuadrado más pequeño. Entonces el cociente de lado del cuadrado más pequeño entre el lado del cuadrado más grande vale:",
+        "respuesta": "1/4",
+        "incorrecta1": "1/2",
+        "incorrecta2": "1/8",
+        "incorrecta3": "1/16"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Dos rollos de tela de la misma calidad cuestan 450 Bs. y 300 Bs. respectivamente, si la primera mide 15 metros más que la segunda, entonces la longitud total del rollo más corto en metros, es:",
+        "respuesta": "30",
+        "incorrecta1": "15",
+        "incorrecta2": "20",
+        "incorrecta3": "25"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Al hallar dos números cuya suma es 20 y cuya diferencia es 10, se encuentra que uno de los números es:",
+        "respuesta": "5",
+        "incorrecta1": "10",
+        "incorrecta2": "2",
+        "incorrecta3": "-5"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Si se divide la expresión x<sup>3</sup> - 3x<sup>2</sup> + 4 entre un binomio se obtiene un trinomio cuadrado perfecto dicho binomio es:",
+        "respuesta": "x + 1",
+        "incorrecta1": "x + 2",
+        "incorrecta2": "x - 2",
+        "incorrecta3": "x - 1"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El valor de la siguiente expresión [-3(-9)+7] / [-4] es:",
+        "respuesta": "-17/2",
+        "incorrecta1": "-5",
+        "incorrecta2": "5",
+        "incorrecta3": "-3.5"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Arturo obtuvo 80, 82 y 98 de calificación en sus primeras pruebas de álgebra ¿Què calificación debe obtener en la cuarta prueba para que su promedio sea 90?",
+        "respuesta": "100",
+        "incorrecta1": "90",
+        "incorrecta2": "96",
+        "incorrecta3": "98"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Una persona, se mueve con aceleración \"a\" y lleva un maletín de masa \"M\" a lo largo de una calle horizontal rectilínea recorriendo una distancia \"D\". El trabajo realizado por dicha persona sobre el maletín es:",
+        "respuesta": "Cero",
+        "incorrecta1": "MgD",
+        "incorrecta2": "MaD",
+        "incorrecta3": "MD"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Un camión de 4000 Kg. de masa, se mueve a una velocidad de 3 m/s y choca de frente contra un automóvil detenido de 2000 Kg. de masa. Si después del choque, ambos vehículos quedan unidos, su velocidad común en m/s es:",
+        "respuesta": "2",
+        "incorrecta1": "1",
+        "incorrecta2": "3",
+        "incorrecta3": "4"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Imagínese un cubo de 1 metro de lado dividido en cubitos de un cm de lado. Si se forma una columna con todos los cubitos dispuestos uno encima de otro, la longitud de dicha columna, en Km es:",
+        "respuesta": "10 Km",
+        "incorrecta1": "1 Km",
+        "incorrecta2": "100 Km",
+        "incorrecta3": "1000 Km"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Para que la altura que alcanza un proyectil sea igual a su alcance horizontal, el ángulo de lanzamiento debe ser igual a:",
+        "respuesta": "tan(θ) = 4",
+        "incorrecta1": "tan(θ) = 2",
+        "incorrecta2": "tan(θ) = 1/2",
+        "incorrecta3": "tan(θ) = 1/4"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Las distancias entre las ciudades A y B es de 1800 Km. Un bus sale de la ciudad A hacia B, y otro bus de la ciudad B hacia A. Ambos salen al mismo tiempo; el que sale de A viaja con velocidad de 50 Km/h y el que sale de B viaja con velocidad constante de 100 Km/h. Se encuentran luego de:",
+        "respuesta": "12 hrs.",
+        "incorrecta1": "11 hrs.",
+        "incorrecta2": "11,5 hrs.",
+        "incorrecta3": "12,5 hrs."
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál identificación es incorrecta de los elementos enumerados?",
+        "respuesta": "Zn, Circonio",
+        "incorrecta1": "C, Carbono",
+        "incorrecta2": "Cd, Cadmio",
+        "incorrecta3": "S, Azufre"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál de los compuestos siguientes tiene el nombre correcto?",
+        "respuesta": "Nitruro de aluminio, AlN",
+        "incorrecta1": "Sulfuro de calcio, CA(HS)<sub>2</sub>",
+        "incorrecta2": "Ácido brómico, HBrO<sub>2</sub>",
+        "incorrecta3": "Óxido de hierro (III), FeO"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuántos átomos de hidrógeno hay en el CH<sub>3</sub> CH (CH<sub>3</sub>)<sub>2</sub>?",
+        "respuesta": "10",
+        "incorrecta1": "3",
+        "incorrecta2": "6",
+        "incorrecta3": "8"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál de los siguientes compuestos tiene el nombre correcto?",
+        "respuesta": "Acetato de sodio, NaCH<sub>3</sub> CO<sub>2</sub>",
+        "incorrecta1": "Pentahidrato de cloruro de bario, BaCl<sub>2</sub> 6H<sub>2</sub>O",
+        "incorrecta2": "Clorito de sodio, NaClO",
+        "incorrecta3": "Nitrato de potasio, KNO<sub>2</sub>"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál de estos compuestos tiene el nombre incorrecto?",
+        "respuesta": "PCl<sub>5</sub>, hexacloruro de fósforo",
+        "incorrecta1": "CS<sub>2</sub>, disulfuro de carbono",
+        "incorrecta2": "SiO<sub>2</sub>, dióxido de silicio",
+        "incorrecta3": "BCl<sub>3</sub>, tricloruro de boro"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La densidad del bromo líquido es de 3.12 g/mL. ¿cuál es la masa de 0.250 L de bromo?",
+        "respuesta": "780 g",
+        "incorrecta1": "0.780 g",
+        "incorrecta2": "0.0801 g",
+        "incorrecta3": "80.1 g"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En un curso de 100 estudiantes, 12 aprobaron lenguaje, 13 aprobaron química, 60 aprobaron lenguaje y química, y el resto reprobó ambas asignaturas. ¿Cuántos estudiantes aprobaron lenguaje?",
+        "respuesta": "72",
+        "incorrecta1": "90",
+        "incorrecta2": "80",
+        "incorrecta3": "45"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Formas de la ecuación de la recta en el plano son:",
+        "respuesta": "La angular, punto pendiente, reducida, cartesiana y general",
+        "incorrecta1": "La tangente, secante, cosecante",
+        "incorrecta2": "La de dos, tres y cuatro variables",
+        "incorrecta3": "Las analíticas, estructuradas y adyacentes"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El valor numérico de: (1/3)<sup>2</sup> (3)<sup>2</sup>",
+        "respuesta": "1",
+        "incorrecta1": "-1",
+        "incorrecta2": "2",
+        "incorrecta3": "-2"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "La suma de los ángulos agudos de un triángulo rectángulo es igual a:",
+        "respuesta": "90",
+        "incorrecta1": "180",
+        "incorrecta2": "45",
+        "incorrecta3": "35"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "La suma de los cuadrados de dos números enteros positivos es 29. Si la resta de los cuadrados de los mismos números es igual a 21 ¿Qué porcentaje del número mayor es el menor?",
+        "respuesta": "40%",
+        "incorrecta1": "30%",
+        "incorrecta2": "45%",
+        "incorrecta3": "35%"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Seleccione la propiedad física que no es intensiva",
+        "respuesta": "Masa",
+        "incorrecta1": "Color",
+        "incorrecta2": "Densidad",
+        "incorrecta3": "Combustión"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La fórmula del óxido cúprico es:",
+        "respuesta": "CuO",
+        "incorrecta1": "CoO",
+        "incorrecta2": "Cu<sub>2</sub>O",
+        "incorrecta3": "Cu<sub>1</sub>O<sub>2</sub>"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Indique la fórmula del ácido perclórico",
+        "respuesta": "HClO<sub>4</sub>",
+        "incorrecta1": "HClO",
+        "incorrecta2": "HClO<sub>3</sub>",
+        "incorrecta3": "HClO<sub>2</sub>"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La tabla periódica de los elementos esta organizada por:",
+        "respuesta": "Número atómico",
+        "incorrecta1": "Orbitales atómicos",
+        "incorrecta2": "Número de masa",
+        "incorrecta3": "Valencias"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Cuál de las siguientes es una sustancia pura:",
+        "respuesta": "Nitrógeno",
+        "incorrecta1": "Aire",
+        "incorrecta2": "Agua",
+        "incorrecta3": "Concreto"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "El cianuro de potasio se representa con la fórmula:",
+        "respuesta": "KCN",
+        "incorrecta1": "KCN<sub>2</sub>",
+        "incorrecta2": "K<sub>2</sub>CN<sub>3</sub>",
+        "incorrecta3": "K<sub>3</sub>N<sub>2</sub>"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La fórmula Na<sub>2</sub>O<sub>2</sub> corresponde al compuesto:",
+        "respuesta": "Peróxido de sodio",
+        "incorrecta1": "Clorato potásico",
+        "incorrecta2": "Ácido sulfúrico",
+        "incorrecta3": "Cloruro de sodio"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Operar manualmente (1 - (1/2)) (1 - (1/3)) (1 - (1/4))",
+        "respuesta": "1/4",
+        "incorrecta1": "1/2",
+        "incorrecta2": "1/3",
+        "incorrecta3": "1/5"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Un empleado trabajó de lunes a viernes desde las 9:15 hasta las 5:15 teniendo 45 minutos para almorzar, y el sábado desde las 9 hasta las 12. ¿Cuántas horas y minutos ha trabajado en la semana?",
+        "respuesta": "39 horas y 15 min.",
+        "incorrecta1": "10 horas y 15 min.",
+        "incorrecta2": "36 horas y 15 min.",
+        "incorrecta3": "38 horas y 45 min."
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Es la capacidad que tiene un cuerpo para realizar trabajo, en virtud a su movimiento mecánico y la posición que ocupa en el campo gravitatorio respecto a un sistema de referencia. Nos referimos a:",
+        "respuesta": "Energía potencial",
+        "incorrecta1": "Trabajo",
+        "incorrecta2": "Potencia",
+        "incorrecta3": "Fuerza"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "La energía cinética depende de:",
+        "respuesta": "Velocidad",
+        "incorrecta1": "Peso",
+        "incorrecta2": "Altura",
+        "incorrecta3": "Gravedad"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "La suma de las edades de un hombre y su esposa es 6 veces la suma de sus edades de sus hijos. Hace dos años la suma de sus edades era 10 veces la suma de las edades de sus hijos y dentro de 6 años la suma de sus edades será 3 veces la suma de las edades de sus hijos. ¿Cuántos hijos tiene?",
+        "respuesta": "La pareja tiene 3 hijos",
+        "incorrecta1": "La pareja tiene 4 hijos",
+        "incorrecta2": "La pareja tiene 2 hijos",
+        "incorrecta3": "La pareja tiene 5 hijos"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver la siguiente ecuación:",
+        "respuesta": "x = c<sup>2</sup>-1 / 2ac",
+        "incorrecta1": "x = c<sup>2</sup>-1 / 3ac",
+        "incorrecta2": "x = c<sup>2</sup>-1 / 4ac",
+        "incorrecta3": "x = c<sup>2</sup>-1 / 1ac",
+        "imagen": "EJ_78.jpg",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Simplificar:",
+        "respuesta": "n",
+        "incorrecta1": "1",
+        "incorrecta2": "n - 4",
+        "incorrecta3": "n<sup>2</sup>",
+        "imagen": "EJ_79.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "La base de un triángulo isósceles es igual a 30 cm y la altura igual a 20 cm. Determine la altura sobre uno de los lados iguales.",
+        "respuesta": "24 cm.",
+        "incorrecta1": "22 cm.",
+        "incorrecta2": "14 cm.",
+        "incorrecta3": "26 cm."
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Hace dos años tenía 6 veces tu edad y dentro de 5 años tendré 13 veces tu edad ¿Qué edad tienes?",
+        "respuesta": "1 año",
+        "incorrecta1": "4 años",
+        "incorrecta2": "2 años",
+        "incorrecta3": "3 años"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Un triángulo equilátero tiene uno de sus lados sobre la recta: 3x - 4y + 8 = 0 y el vértice opuesto está en el punto (1,2), la ecuación de la altura perpendicular al lado mencionado es:",
+        "respuesta": "3y + 4x - 10 = 0",
+        "incorrecta1": "3y - 4x + 1 = 0",
+        "incorrecta2": "3y - 2x + 10 = 0",
+        "incorrecta3": "y - 4x - 10 = 0"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Una fuerza neta de 2N, actúa horizontalmente sobre un cuerpo provocando un aunmento en su velocidad de 2 m/s a 6 m/s en 2 segundos. La masa del cuerpo en kilogramos es:",
+        "respuesta": "1",
+        "incorrecta1": "4",
+        "incorrecta2": "8",
+        "incorrecta3": "2"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Con qué energía tocará tierra un cuerpo que pesa 2500 gramos si cae libremente desde 12 metros de altura? (considerar g = 10 m/s<sup>2</sup>)",
+        "respuesta": "300 J",
+        "incorrecta1": "310 J",
+        "incorrecta2": "320 J",
+        "incorrecta3": "330 J"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Hallar el trabajo realizado para arrastrar una  caja sobre una pista horizontal, una distancia de 8 metros. La fuerza ejercida en la cuerda es de 90 N formando un ángulo de 60° con la horizontal.",
+        "respuesta": "360 J",
+        "incorrecta1": "350 J",
+        "incorrecta2": "240 J",
+        "incorrecta3": "400 J"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Calcular la energía cinética de un vehículo que tiene la masa de 100 kilogramos y va a 90 Km/h.",
+        "respuesta": "31250 J",
+        "incorrecta1": "30250 J",
+        "incorrecta2": "25142 J",
+        "incorrecta3": "40250 J"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Una bola de tenis de 100 g golpea una raqueta con una velocidad de 20 m/s y rebota con igual rapidéz. Si el tiempo de la interacción entre la bola y la raqueta es 0,05 seg. Calcular la fuerza media que produce la bola sobre la raqueta.",
+        "respuesta": "80 N",
+        "incorrecta1": "50 N",
+        "incorrecta2": "60 N",
+        "incorrecta3": "70 N"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Un auto se mueve con una velocidad de 60 Km/h. Un caminón de masa doble se aproxima en sentido contrario. Si ambos vehículos quedan quietos después del choque, ¿con qué velocidad se estaba moviendo el camión?",
+        "respuesta": "30 Km/h",
+        "incorrecta1": "32 Km/h",
+        "incorrecta2": "31 Km/h",
+        "incorrecta3": "20 Km/h"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Una bala de 8 gr. disparada por un policia se dispara horizontalmente sobre un bloque de madera de 9 Kg. Sabiendo que la velocidad del bloque y de la bala después del choque es de 40 cm/s. Calcular la velocidad inicial.",
+        "respuesta": "450,4 m/s",
+        "incorrecta1": "320,4 m/s",
+        "incorrecta2": "400 m/s",
+        "incorrecta3": "200 m/s"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Una de la afirmaciones siguientes está equivocada, identifíquela seleccionando la frase.",
+        "respuesta": "Si la componente de un vector sobre el eje es nula, podemos concluir que la magnitud del vector también lo es.",
+        "incorrecta1": "La magnitud de la componente de un vector no puede ser mayor que la del propio vector.",
+        "incorrecta2": "Si un vector es perpendicular a un eje, la componente de vector sobre dicho eje es nula.",
+        "incorrecta3": "Si un vector es paralelo a un eje, la magnitud de la componente del vector es igual a la magnitud de dicho vector."
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Cuál de las siguientes fórmulas corresponde al ácido pirobórico:",
+        "respuesta": "H<sub>4</sub>B<sub>2</sub>O<sub>5</sub>",
+        "incorrecta1": "H<sub>3</sub>BO<sub>3</sub>",
+        "incorrecta2": "HBO<sub>2</sub>",
+        "incorrecta3": "HBO"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Cuál de las siguientes fórmulas corresponde al ácido metasilícico:",
+        "respuesta": "H<sub>2</sub>SiO<sub>3</sub>",
+        "incorrecta1": "HSiO<sub>2</sub>",
+        "incorrecta2": "H<sub>4</sub>SiO<sub>4</sub>",
+        "incorrecta3": "H<sub>2</sub>SiO<sub>2</sub>"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La fórmula del peróxido de hidrógeno es:",
+        "respuesta": "H<sub>2</sub>O<sub>2</sub>",
+        "incorrecta1": "H<sub>2</sub>O",
+        "incorrecta2": "H<sub>2</sub>",
+        "incorrecta3": "H<sub>3</sub>O<sub>2</sub>"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Calcular el peso molecular del sulfato de sodio (S = 32, O = 16, Na = 23)",
+        "respuesta": "142",
+        "incorrecta1": "130",
+        "incorrecta2": "170",
+        "incorrecta3": "180"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Calcular el número de gramos presentes en 0.02 moles de H<sub>3</sub>PO<sub>4</sub>",
+        "respuesta": "1.96 gr",
+        "incorrecta1": "1.38 gr",
+        "incorrecta2": "1.02 gr",
+        "incorrecta3": "1.24 gr"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La aleación del hierro y carbono se denomina:",
+        "respuesta": "Acero",
+        "incorrecta1": "Constatan",
+        "incorrecta2": "Bronce",
+        "incorrecta3": "Cobre"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La acetona corresponde al grupo funcional cetonas; su fórmula global es:",
+        "respuesta": "CH<sub>3</sub> - CO - CH<sub>3</sub>",
+        "incorrecta1": "CH<sub>4</sub> - CO - CH<sub>3</sub>",
+        "incorrecta2": "CH<sub>3</sub> - O - CH<sub>3</sub>",
+        "incorrecta3": "CH<sub>4</sub> - O - CH<sub>3</sub>"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La estructura del ácido láctico es:",
+        "respuesta": "CH<sub>3</sub> - CHOH - COOH",
+        "incorrecta1": "CH<sub>4</sub> - CHOH - CO - COOH",
+        "incorrecta2": "CH<sub>4</sub> - CHOH - COOH",
+        "incorrecta3": "CH<sub>3</sub> - CHOH - CO - COH"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Presenta iguales fuerzas de atracción y repulsión en las moléculas, éstas características corresponden al estado:",
+        "respuesta": "Líquido",
+        "incorrecta1": "Sólido",
+        "incorrecta2": "Gases Nobles",
+        "incorrecta3": "Gases Ideales"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Las culturas precolombinas empleaban medidas antropométricas, las cuales algunas de ellas eran:",
+        "respuesta": "El codo, el pie, la palma y otros",
+        "incorrecta1": "El metro, el kilo, la micra y otros",
+        "incorrecta2": "El espacio, el tiempo y la dimensión",
+        "incorrecta3": "La materia y la antimateria"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "La matemática requiere utilizar elementos como: los números, letras, símbolos, formas y medidas, que son necesarias para:",
+        "respuesta": "Todas las anteriores",
+        "incorrecta1": "Las relaciones o conceptos matemáticos",
+        "incorrecta2": "La modelización matemática",
+        "incorrecta3": "Definiciones, teoremas y axiomas matemáticas"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El álgebra es comprendida como:",
+        "respuesta": "La complementariedad de la aritmética y la geometría (número y dimensión)",
+        "incorrecta1": "El estudio de los números naturales, enteros y sus respectivas propiedades",
+        "incorrecta2": "Una ciencia de la matemática",
+        "incorrecta3": "La relación con el contexto natural"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En la estructura algebráica (Z, +, x), es un anillo, si y solo si, se constituye de:",
+        "respuesta": "De un grupo, semi grupo y la propiedad distributiva",
+        "incorrecta1": "Dos operaciones y una propiedad conmutativa de una de las operaciones",
+        "incorrecta2": "Las operaciones de división con números reales",
+        "incorrecta3": "Teoremas, axiomas y corolarios"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Las formas de la ecuación de la recta en el plano son:",
+        "respuesta": "La angular, punto pendiente, reducida, cartesiana y general",
+        "incorrecta1": "La tangente, secante, cosecante",
+        "incorrecta2": "La de dos, tres y cuatro variables",
+        "incorrecta3": "Las de análisis, convencionales, formales y gráficas"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El valor que debe asignarse a \"x\" para que se cumpla la igualdad debe ser:",
+        "respuesta": "-1,5",
+        "incorrecta1": "0,5",
+        "incorrecta2": "1",
+        "incorrecta3": "1,5",
+        "imagen": "EJ_77.jpg",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El conjunto solución de la inecuación x<sup>2</sup> - 2x - 3 < 0 es:",
+        "respuesta": "(-1,3)",
+        "incorrecta1": "(1,-3)",
+        "incorrecta2": "-1,3",
+        "incorrecta3": "1,-3"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El polinomio 4xy<sup>2</sup> + 2x<sup>2</sup>y - xy<sup>2</sup> + 3x<sup>2</sup>y reducido es:",
+        "respuesta": "3xy<sup>2</sup> + 5x<sup>2</sup>y",
+        "incorrecta1": "5xy<sup>2</sup> + 3x<sup>2</sup>y",
+        "incorrecta2": "2x<sup>6</sup>y<sup>6</sup>",
+        "incorrecta3": "8x<sup>6</sup>y<sup>6</sup>"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Un padre tiene el triple de la edad de su hijo, pero dentro de 15 años tendrá tan solo el doble de la edad de su hijo. ¿Cuántos años tiene ahora el hijo?",
+        "respuesta": "15",
+        "incorrecta1": "10",
+        "incorrecta2": "20",
+        "incorrecta3": "8"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "La suma de dos números es 33 y su producto es 242. ¿Cuáles son esos números?",
+        "respuesta": "22 y 11",
+        "incorrecta1": "10 y 23",
+        "incorrecta2": "20 y 13",
+        "incorrecta3": "-22 y -11"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En la ecuación √(x - 1) + √(3x - 2) = 3 el valor de \"x\" es:",
+        "respuesta": "2",
+        "incorrecta1": "3",
+        "incorrecta2": "1",
+        "incorrecta3": "-1"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En la ecuación sen<sup>2</sup>x + senx - 2 = 0, el valor de \"x\" es:",
+        "respuesta": "π/2",
+        "incorrecta1": "π",
+        "incorrecta2": "1/2",
+        "incorrecta3": "2"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El máximo número de puntos de intersección de tres triángulos es:",
+        "respuesta": "18",
+        "incorrecta1": "12",
+        "incorrecta2": "9",
+        "incorrecta3": "6"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Un gavilán se cruza en vuelo con lo que parece un centenar de palomas. Pero una lo saca del error -No somos cien le dice-. Si sumamos las que somos, más tantas como las que somos, más la mitad de las que somos y la mitad de la mitad de las que somos, en ese caso contigo, gavilán, seríamos cien. ¿Cuántas palomas había en la bandada?",
+        "respuesta": "36",
+        "incorrecta1": "99",
+        "incorrecta2": "86",
+        "incorrecta3": "56"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "La solución de la inecuación -3x + 1 > 13 es:",
+        "respuesta": "x < -4",
+        "incorrecta1": "x ≥ -4",
+        "incorrecta2": "x ≤ -4",
+        "incorrecta3": "x > -4"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Las sustancias se distinguen por caracteres y propiedades que les son peculiares. Hay unas propiedades comunes a todos los cuerpos y se llaman propiedades generales y otras las presentan determinados cuerpos y son sus propiedades particulares. A continuación tenemos propiedades generales menos una.",
+        "respuesta": "Dureza",
+        "incorrecta1": "Extensión",
+        "incorrecta2": "Cohesión",
+        "incorrecta3": "Peso"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿En cuál de las ramas de la física, piensa usted que se encuadra la Wiphala como espectro luminoso?",
+        "respuesta": "Óptica",
+        "incorrecta1": "Mecánica",
+        "incorrecta2": "Electricidad",
+        "incorrecta3": "Acústica"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Indicar en cuál de los siguientes casos se está haciendo referencia a una magnitud vectorial (indican el módulo, dirección y sentido) y no así a una magnitud escalar (indican módulo).",
+        "respuesta": "Un estudiante va a la casa de un compañero siguiendo la numeración creciente de las casas de la calle donde vive.",
+        "incorrecta1": "Un noque de agua que tiene 1000 litros de agua",
+        "incorrecta2": "Se paga 1300 Bs. como salario mínimo",
+        "incorrecta3": "Un avión de BOA vuela a 1000 pies de altura"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Los eclipses son fenómenos de formación de sombras que se producen como consecuencia de la propagación rectilínea de la luz, cuando un astro se interpone e impide que llegue la luz a otro. El eclipse de sol se produce cuando se interpone:",
+        "respuesta": "La luna entre el sol y la tierra",
+        "incorrecta1": "El sol entre la tierra y la luna",
+        "incorrecta2": "La tierra se interpone entre el sol y la luna",
+        "incorrecta3": "El sol entre la luna y la tierra"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "El lago Titicaca es el más alto del mundo y se halla a una altura de 3810 m.s.n.m. Este valor lo podemos expresar en notación científica de la siguiente manera:",
+        "respuesta": "3,8 x 10<sup>3</sup>",
+        "incorrecta1": "3,8 x 10<sup>-3</sup>",
+        "incorrecta2": "381 x 10",
+        "incorrecta3": "3810 x 10<sup>-3</sup>"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Se está probando un automóvil en una pista circular de 300 m de radio. ¿Cuál será el módulo de desplazamiento del automóvil después de haber completado dos vueltas?",
+        "respuesta": "0 m",
+        "incorrecta1": "300 m",
+        "incorrecta2": "600 m",
+        "incorrecta3": "1200 m"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Por qué algunas personas sufren hemorragia al remontar las alturas?",
+        "respuesta": "Porque la presión atmosférica es menor por lo que el corazón bombea mayor cantidad de sangre de lo normal y se revientan los capilares",
+        "incorrecta1": "Porque son muy débiles",
+        "incorrecta2": "Porque la presión atmosférica es mayor en las alturas y actúa sobre el sistema sanguíneo aumentando el flujo",
+        "incorrecta3": "Porque la presión atmosférica es igual"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Las gotas de agua suspendidas en el aire después de una lluvia, pueden actuar como:",
+        "respuesta": "Prisma óptico",
+        "incorrecta1": "Espejo",
+        "incorrecta2": "Vidrio transparente",
+        "incorrecta3": "Disco de Newton"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La magnetita tiene la propiedad de atraer limaduras de hierro y de algunos otros metales. Tiene la siguiente fórmula química:",
+        "respuesta": "Fe<sub>3</sub>O<sub>4</sub>",
+        "incorrecta1": "FeO",
+        "incorrecta2": "Fe<sub>2</sub>O<sub>3</sub>",
+        "incorrecta3": "MgO"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Los procesos digestivos corresponden a fenómenos",
+        "respuesta": "Químicos",
+        "incorrecta1": "Físicos",
+        "incorrecta2": "Alotrópicos",
+        "incorrecta3": "Todos los anteriores"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Algunas aplicaciones de la producción del calor mediante corrientes eléctricas como las planchas, cocinas, tostadoras, etc. Corresponde al efecto:",
+        "respuesta": "Joule",
+        "incorrecta1": "Thomson",
+        "incorrecta2": "Oesterd",
+        "incorrecta3": "Kirchoff"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Las variables del movimiento rectilíneo uniformemente variado son:<br> a) Velocidad y Tiempo<br> b) Aceleración y Distancia<br> c) Periodo y Longitud<br> d)Masa y Velocidad<br> e) Masa y Distancia<br> f) Fuerza y Aceleración",
+        "respuesta": "a, b",
+        "incorrecta1": "a, b, c",
+        "incorrecta2": "a, d, f",
+        "incorrecta3": "a, e"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Cuál es la afirmación que explica por qué existe en la tierra el día y la noche?",
+        "respuesta": "La Tierra gira sobre su propio eje",
+        "incorrecta1": "El Sol gira sobre su propio eje",
+        "incorrecta2": "El eje de la Tierra está inclinado",
+        "incorrecta3": "La Tierra gira alrededor del Sol"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "El Bronce es una aleación de:",
+        "respuesta": "Cu y Sn",
+        "incorrecta1": "Mn y Fe",
+        "incorrecta2": "Zn y Cu",
+        "incorrecta3": "Pb y Sn"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Convertir 15.0 pulgadas a centímetros",
+        "respuesta": "38.1 cm",
+        "incorrecta1": "40 cm",
+        "incorrecta2": "35.6 cm",
+        "incorrecta3": "20.9 cm"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Hallar la ecuación dimensional de: E = (S*v*F*α) / (D*w) Donde:<br>S = area;<br>v = velocidad lineal;<br>α = aceleración angular;<br>F = fuerza;<br>D = densidad;<br>w = trabajo",
+        "respuesta": "E = L<sup>5</sup>T<sup> -3</sup>M<sup>-1</sup>",
+        "incorrecta1": "E = L<sup>3</sup>T<sup> -7</sup>M<sup>-8</sup>",
+        "incorrecta2": "E = L<sup>4</sup>T<sup> -5</sup>M<sup>-1</sup>",
+        "incorrecta3": "E = L<sup>5</sup>T<sup> -10</sup>M<sup>-1</sup>"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Cuántos destellos por segundo debe dar una cámara fotográfica para retratar imágenes separadas 50 cm. de un proyectil que se mueve a 100 m/s?",
+        "respuesta": "200 destellos/segundo",
+        "incorrecta1": "250 destellos/segundo",
+        "incorrecta2": "100 destellos/segundo",
+        "incorrecta3": "230 destellos/segundo"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Hallar el módulo de la resultante del sistema:",
+        "respuesta": "2.41 unidades",
+        "incorrecta1": "3.76 unidades",
+        "incorrecta2": "5.45 unidades",
+        "incorrecta3": "4.34 unidades",
+        "imagen": "EJ_72.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Un auto lleva una velocidad de 10 m/s, se aplican los frenos y empieza una desaceleración de 3 m/s<sup>2</sup>. Calcular:<br>a) Tiempo que demora en detenerse.<br>b) Espacio que recorre hasta pararse.",
+        "respuesta": "Tiempo = 3.33 segundos y Espacio = 16.67 metros",
+        "incorrecta1": "Tiempo = 5.33 segundos y Espacio = 19.97 metros",
+        "incorrecta2": "Tiempo = 6.33 segundos y Espacio = 18.57 metros",
+        "incorrecta3": "Tiempo = 3.33 segundos y Espacio = 18.47 metros"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Un esquiador parte del reposo y se desliza 9.0 m hacia abajo, por una pendiente, en 3.0 s. ¿Cuánto tiempo, después del inicio, el esquiador habrá adquirido una velocidad de 24 m/s. Considérese la aceleración constante.",
+        "respuesta": "Aceleración = 2 m/s<sup>2</sup> y Tiempo = 12 segundos",
+        "incorrecta1": "Aceleración = 2 m/s<sup>2</sup> y Tiempo = 16 segundos",
+        "incorrecta2": "Aceleración = 2 m/s<sup>2</sup> y Tiempo = 10 segundos",
+        "incorrecta3": "Aceleración = 2 m/s<sup>2</sup> y Tiempo = 15 segundos"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "El número expresado en notación científica 0,000000025 es:",
+        "respuesta": "2.5 x 10<sup>-8</sup>",
+        "incorrecta1": "2.5 x 10<sup>7</sup>",
+        "incorrecta2": "2.5 x 10<sup>6</sup>",
+        "incorrecta3": "Ninguno"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El siguiente quebrado 1(<small>3/4</small>) es una fracción:",
+        "respuesta": "Impropia",
+        "incorrecta1": "Propia",
+        "incorrecta2": "Ambos",
+        "incorrecta3": "Ninguno"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Simplificar la siguiente expresión:",
+        "respuesta": "3",
+        "incorrecta1": "5",
+        "incorrecta2": "ab",
+        "incorrecta3": "8",
+        "imagen": "EJE_77.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Efectuar: (7ax<sup>4</sup> + 9y<sup>5</sup>)(7ax<sup>4</sup> + 9y<sup>5</sup>)",
+        "respuesta": "49a<sup>3</sup>x<sup>8</sup> + 126ax<sup>4</sup>y<sup>5</sup> + 81y<sup>10</sup>",
+        "incorrecta1": "14a<sup>3</sup>x<sup>8</sup> + 126ax<sup>6</sup>y<sup>4</sup> + 81y<sup>5</sup>",
+        "incorrecta2": "69ax<sup>4</sup> + 126ax<sup>4</sup>y<sup>5</sup> + 81y<sup>4</sup>",
+        "incorrecta3": "9a<sup>7</sup>x<sup>8</sup> + 106ax<sup>4</sup>y<sup>8</sup> + 81y<sup>10</sup>"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Desarrollar: (5 - p<sup>3</sup> - 4q<sup>6</sup>)<sup>2</sup>",
+        "respuesta": "25 + p<sup>6</sup> + 16q<sup>12</sup> - 10p<sup>3</sup> - 40q<sup>6</sup> + 8p<sup>3</sup>q<sup>6</sup>",
+        "incorrecta1": "25 + p<sup>9</sup> + 16q<sup>2</sup> - 80p<sup>3</sup> - 80q<sup>6</sup> + 5p<sup>3</sup>q<sup>6</sup>",
+        "incorrecta2": "35 + p<sup>6</sup> + 16q<sup>12</sup> - 40p<sup>3</sup> - 40q<sup>6</sup> + 8p<sup>3</sup>q<sup>6</sup>",
+        "incorrecta3": "225 + p<sup>6</sup> + 76q<sup>12</sup> - 10p<sup>3</sup> - 40q<sup>6</sup> + 84p<sup>3</sup>q<sup>6</sup>"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Factorizar: E= 27x<sup>6</sup> - 27x<sup>4</sup>b<sup>2</sup>y + 9x<sup>2</sup>b<sup>4</sup>y<sup>2</sup> - b<sup>6</sup>y<sup>3</sup>",
+        "respuesta": "(3x<sup>2</sup> - b<sup>2</sup>y)<sup>3</sup>",
+        "incorrecta1": "(x<sup>2</sup> - by)<sup>3</sup>",
+        "incorrecta2": "(3x<sup>2</sup> + by)<sup>3</sup>",
+        "incorrecta3": "(x<sup>2</sup> - 3b<sup>2</sup>y)<sup>3</sup>"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Simplificar:",
+        "respuesta": "A = √ab",
+        "incorrecta1": "A = √2ab",
+        "incorrecta2": "A = ab",
+        "incorrecta3": "A = √a<sup>3</sup>b",
+        "imagen": "EJ_81.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver: (2x + 5)/3 = (x - 4)/4",
+        "respuesta": "x = -32/5",
+        "incorrecta1": "x = -24/5",
+        "incorrecta2": "x = 24/5",
+        "incorrecta3": "x = -5"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver el siguiente sistema de ecuaciones:<br>7x + 5y = 43<br>3x + 2y = 18",
+        "respuesta": "x = 4; y = 3",
+        "incorrecta1": "x = 0; y = 6",
+        "incorrecta2": "x = 4; y = -3",
+        "incorrecta3": "x = -8; y = 3"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Si a dos términos de una fracción se añade 3, el valor de la fracción es 1/2 y si a los dos términos se le resta 1, el valor de la fracción es de 1/3. Hallar la fracción:",
+        "respuesta": "x/y = 5/13",
+        "incorrecta1": "x/y = 5/12",
+        "incorrecta2": "x/y = -54/13",
+        "incorrecta3": "x/y = 6"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Calcular \"x\", si L//L1//L2",
+        "respuesta": "100°",
+        "incorrecta1": "120°",
+        "incorrecta2": "180°",
+        "incorrecta3": "60°",
+        "imagen": "EJ_85.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "lim<sub>x→2</sub>(3x<sup>2</sup> + 5x + 4)",
+        "respuesta": "26",
+        "incorrecta1": "24",
+        "incorrecta2": "30",
+        "incorrecta3": "15"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Si x = a + b + c Hallar:",
+        "respuesta": "1",
+        "incorrecta1": "2",
+        "incorrecta2": "5",
+        "incorrecta3": "15",
+        "imagen": "EJ_87.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Quién formuló los postulados de la teoría atómica?",
+        "respuesta": "Jhon Dalton",
+        "incorrecta1": "Albert Einstein",
+        "incorrecta2": "Alfred Hitchcock",
+        "incorrecta3": "Alfred Nobel"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Dónde se encuentra casi la totalidad de peso atómico",
+        "respuesta": "Núcleo",
+        "incorrecta1": "Periferia",
+        "incorrecta2": "Ninguno",
+        "incorrecta3": "Ambos"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Qué sucede con la luz cuando atraviesa un prisma",
+        "respuesta": "Se descompone en una gama de colores",
+        "incorrecta1": "No pasa nada",
+        "incorrecta2": "Se vuelve blanca",
+        "incorrecta3": "Ninguno"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Quién ordenó los elementos químicos en una tabla?",
+        "respuesta": "Henry Moseley",
+        "incorrecta1": "Henry Ford",
+        "incorrecta2": "Carl Marx",
+        "incorrecta3": "Marie Curie"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "El grupo IV-A corresponde a la familia de los:",
+        "respuesta": "Carbonoides",
+        "incorrecta1": "Flavonoides",
+        "incorrecta2": "Fluoranos",
+        "incorrecta3": "Halogenos"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Sabiendo que el carbono se encuentra en un 53,31% en peso, en el alcohol etílico (C<sub>2</sub>H<sub>5</sub>OH) cuyo P.M. es de 45,06 ¿Cuál será el P. at del carbono?",
+        "respuesta": "12,01",
+        "incorrecta1": "15",
+        "incorrecta2": "13",
+        "incorrecta3": "18"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La fórmula para poder calcular la molécula gramo es:",
+        "respuesta": "n = m/M",
+        "incorrecta1": "n = m*M",
+        "incorrecta2": "m = Mx(n-1)",
+        "incorrecta3": "M = m*(n-1)"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Los gases reales:",
+        "respuesta": "Son los que se encuentran usualmente en la práctica, entre sus moléculas hay atracciones o repulsiones cuando se los comprime",
+        "incorrecta1": "Se caracterizan porque la atracción o repulsión de sus moléculas es cero y cumplen con ciertas leyes ya establecidas",
+        "incorrecta2": "Ninguno es correcto",
+        "incorrecta3": "Ambos"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "El número de protones es igual al número de:",
+        "respuesta": "Electrones",
+        "incorrecta1": "Magnetos",
+        "incorrecta2": "Neutrinos",
+        "incorrecta3": "Ninguna"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Qué elemento no es sólido a temperatura ambiental",
+        "respuesta": "Mercurio",
+        "incorrecta1": "Hierro",
+        "incorrecta2": "Plata",
+        "incorrecta3": "Oro"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuá es la fórmula de la densidad?",
+        "respuesta": "d = m/v",
+        "incorrecta1": "d = m x v",
+        "incorrecta2": "d = v/m",
+        "incorrecta3": "Ninguna"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Determinar la composición centesimal del oxígeno que existe en el sulfato férrico",
+        "respuesta": "48% de oxígeno",
+        "incorrecta1": "50% de oxígeno",
+        "incorrecta2": "60% de oxígeno",
+        "incorrecta3": "30% de oxígeno"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "En la Oxidación:",
+        "respuesta": "Hay pérdida de electrones",
+        "incorrecta1": "Hay ganancia de electrones",
+        "incorrecta2": "Ninguna es correcta",
+        "incorrecta3": "Hay pérdida y ganancia de electrones"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Son dispositivos utilizados para interrumpir una determinada cantidad de corriente eléctrica, condensada peligrosa",
+        "respuesta": "Fusibles",
+        "incorrecta1": "Condensadores",
+        "incorrecta2": "Resistencias",
+        "incorrecta3": "Diodos"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Dos ángulos son suplementarios cuando la suma de ellos es igual a:",
+        "respuesta": "180°",
+        "incorrecta1": "90°",
+        "incorrecta2": "270°",
+        "incorrecta3": "360°"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La ley de Lavoiser es también llamada:",
+        "respuesta": "Ley de la conservación de la materia",
+        "incorrecta1": "Ley de la conservación de neutrones",
+        "incorrecta2": "Ley de la conservación de protones",
+        "incorrecta3": "Ley de la conservación de electrones"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Un libro tiene entre 200 y 300 páginas. La cifra de las decenas es la tercera parte de la cifra de las unidades y la suma de las tres cifras es 14. ¿Cuántas páginas tiene el libro?",
+        "respuesta": "239",
+        "incorrecta1": "249",
+        "incorrecta2": "299",
+        "incorrecta3": "293"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "La corriente eléctrica producida por un generador que cambia de sentido periódicamente 50 o 60 veces por segundo se denomina:",
+        "respuesta": "Corriente alterna",
+        "incorrecta1": "Corriente inversa",
+        "incorrecta2": "Corriente continua",
+        "incorrecta3": "Corriente neutra"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "La difusión de los gases depende de:",
+        "respuesta": "Peso molecular",
+        "incorrecta1": "Peso irreal",
+        "incorrecta2": "Peso de un solo protón",
+        "incorrecta3": "Peso de un solo electrón"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El cociente de (a<sup>2</sup> - b<sup>4</sup>) / (a - b<sup>2</sup>) es:",
+        "respuesta": "a + b<sup>2</sup>",
+        "incorrecta1": "a - b<sup>2</sup>",
+        "incorrecta2": "a<sup>2</sup> - b<sup>2</sup>",
+        "incorrecta3": "a<sup>2</sup> + b<sup>2</sup>"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Convierta 100 litros de gasolina a m<sup>3</sup>",
+        "respuesta": "0.1 m<sup>3</sup>",
+        "incorrecta1": "0.4 m<sup>3</sup>",
+        "incorrecta2": "0.2 m<sup>3</sup>",
+        "incorrecta3": "10 m<sup>3</sup>"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Uno de los siguientes es un gas noble",
+        "respuesta": "He",
+        "incorrecta1": "C",
+        "incorrecta2": "O",
+        "incorrecta3": "B"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Una cuadrilla de obreros ha hecho una obra en 20 días trabajando 6 horas diarias ¿En cuántos días habrían hecho la obra si hubieran trabajado 8 horas diarias?",
+        "respuesta": "15",
+        "incorrecta1": "18",
+        "incorrecta2": "16",
+        "incorrecta3": "Ninguno"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "El principio de Pascal establece que la presión aplicada a un fluido encerrado es transmitida sin pérdida alguna en todas las direcciones y sentidos sin importar",
+        "respuesta": "La forma del recipiente",
+        "incorrecta1": "La forma de un vehículo",
+        "incorrecta2": "La forma de un reloj",
+        "incorrecta3": "La forma de la superficie"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Las reacciones de neutralización son las que se producen entre:",
+        "respuesta": "Una base y un ácido",
+        "incorrecta1": "Una base y agua",
+        "incorrecta2": "Entre agua y un ácido",
+        "incorrecta3": "Solo ácido"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En la ecuación √(x + 18) = (x - 2) el valor de \"x\" es:",
+        "respuesta": "7",
+        "incorrecta1": "4",
+        "incorrecta2": "6",
+        "incorrecta3": "9"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "¿Cuál es el tiempo que tarda un automóvil en recorrer una distancia de 300 metros con una velocidad de 30 m/s?",
+        "respuesta": "10 s",
+        "incorrecta1": "8 s",
+        "incorrecta2": "9 s",
+        "incorrecta3": "12 s"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "La oración es la unidad mínima que:",
+        "respuesta": "Tiene sentido completo",
+        "incorrecta1": "Tiene sentido incompleto",
+        "incorrecta2": "Posee coherencia",
+        "incorrecta3": "Posee coherencia sintáctica"
+   },
+   {
+        "categoria": "Literatura",
+        "pregunta": "Por su origen según el criterio morfológico, los sustantivos pueden ser clasificados en Primitivos y Derivados; siendo los Derivados:",
+        "respuesta": "En su estructura incluyen morfemas derivativos ",
+        "incorrecta1": "Estos sustantivos no provienen de ninguna otra palabra más simple",
+        "incorrecta2": "Estos sustantivos fueron originalmente concebidos en la lengua materna no sufriendo variaciones lingüísticas desde el origen de su idioma",
+        "incorrecta3": "En su estructura incluyen adjetivos calificativos"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Se denomina contexto lingüístico o semántico cuando un signo adquiere o precisa su significado en relación con el significado de otros.",
+        "respuesta": "Signos",
+        "incorrecta1": "Emisores",
+        "incorrecta2": "Canales",
+        "incorrecta3": "Receptores"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Con esta oración el hablante expresa deseo, anhelo o ilusión.",
+        "respuesta": "Oración desiderativa",
+        "incorrecta1": "Oración dubitativa",
+        "incorrecta2": "Oración enunciativa",
+        "incorrecta3": "Oración exhortativa"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "El contexto situacional hace referencia a la ubicación del hablante en el espacio, en el tiempo, y en el:",
+        "respuesta": "Diálogo",
+        "incorrecta1": "Contenido sintáctico",
+        "incorrecta2": "Lugar",
+        "incorrecta3": "Momento"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Por su extensión según el criterio semántico, los sustantivos pueden ser clasificados en Comunes y Propios; siendo los Propios.",
+        "respuesta": "Designan a un ser en particular, diferenciándolo de otros de su misma especie",
+        "incorrecta1": "Nombra a las especies más comunes dentro del habla hispana",
+        "incorrecta2": "Nombran a los seres de manera genérica",
+        "incorrecta3": "Designa a una persona con pocas cualidades diferenciadoras"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Una de las características del signo lingüístico refiere que \"ningún significado o concepto exige necesariamente el significante que le hemos asignado\"; es decir podemos asignar al significado /mesa/ cualquier otra secuencia de sonidos (/table/, /tableaú/, /stol/) esta característica es:",
+        "respuesta": "Arbitrariedad",
+        "incorrecta1": "Linealidad",
+        "incorrecta2": "Mutabilidad",
+        "incorrecta3": "Inmutabilidad"
+    },
+  {
+        "categoria": "Literatura",
+        "pregunta": "Es aquella unidad que expresa una sola significación; presenta un solo núcleo.",
+        "respuesta": "La oración simple",
+        "incorrecta1": "Modificadores",
+        "incorrecta2": "Aposición explicativa",
+        "incorrecta3": "Núcleo"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Es el medio físico por donde se desliza y difunde el mensaje.",
+        "respuesta": "El canal",
+        "incorrecta1": "El condicionamiento circunstancial",
+        "incorrecta2": "El contexto",
+        "incorrecta3": "La respuesta"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Ciertas palabras pueden ser descompuestas en partes más pequeñas dotadas de significado, a estas partes más pequeñas se las denomina.",
+        "respuesta": "Morfemas",
+        "incorrecta1": "Fonemas",
+        "incorrecta2": "Sintagma",
+        "incorrecta3": "Imagen Acústica"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Según el código, los tipos de comunicación pueden ser lingüísticas y no lingüísticas, siendo las lingüísticas:",
+        "respuesta": "Las que utilizan un código o lengua",
+        "incorrecta1": "Las que utilizan mensajes indirectos",
+        "incorrecta2": "Las que utilizan como código cualquier otro signo que no sea la palabra",
+        "incorrecta3": "Las que utilizan mensajes subliminales"
+    },
+      {
+        "categoria": "Literatura",
+        "pregunta": "Sujeto que responde a las intenciones del emisor de manera activa, reflexiva, crítica.",
+        "respuesta": "Perceptor",
+        "incorrecta1": "Radioescucha",
+        "incorrecta2": "Receptor",
+        "incorrecta3": "Oyente"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Es el sustantivo o construcción sustantiva que se junta a otro sin formar un nuevo concepto con él, constituyéndose como una explicación, comentario u opinión.",
+        "respuesta": "Aposición explicativa",
+        "incorrecta1": "Modificadores",
+        "incorrecta2": "La oración simple",
+        "incorrecta3": "Núcleo"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Este tipo de verbo es el que tiene por sujeto agente a una, dos o más personas que ejercen la acción sobre otra u otras:",
+        "respuesta": "Reciproco",
+        "incorrecta1": "Cuasireflejo",
+        "incorrecta2": "Reflexivo",
+        "incorrecta3": "Intransitivo"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Entre las funciones que complementan sustantivamente al lenguaje se encuentra la Metalingüística (o de glosa) que está orientada hacia:",
+        "respuesta": "El código",
+        "incorrecta1": "El canal",
+        "incorrecta2": "El mensaje",
+        "incorrecta3": "El contexto"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Para la sintaxis, la unidad básica de análisis es:",
+        "respuesta": "El sintagma",
+        "incorrecta1": "El verbo",
+        "incorrecta2": "El sustantivo",
+        "incorrecta3": "La acción"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "La oración compuesta es la unidad que presenta proposiciones (estas son expresiones con sentido completo) en su estructura y se pueden determinar por la cantidad de:",
+        "respuesta": "Verbos conjugados que contiene",
+        "incorrecta1": "Sustantivos que contiene",
+        "incorrecta2": "Sujetos que contiene",
+        "incorrecta3": "Adverbios que contiene"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Es el cúmulo de conocimientos que posee el hablante; los adquirió en la escuela, en la universidad, en la propia experiencia de la vida. Todo esto nos ayuda, en nuestras interrelaciones sociales.",
+        "respuesta": "El contexto Cultural",
+        "incorrecta1": "Contexto paraverbal",
+        "incorrecta2": "Contenido sintáctico",
+        "incorrecta3": "diálogo"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Según lo informa José de Sucre a Simón Bolívar en fecha 09 de diciembre de 1824, se proclamó la conclusión de una batalla que decidió, por fin, que el Perú Corresponde a los hijos de la gloria. Esto corresponde a la batalla de:",
+        "respuesta": "Ayacucho",
+        "incorrecta1": "Arica",
+        "incorrecta2": "Pichincha",
+        "incorrecta3": "Boquerón"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Según Víctor Paz Estenssoro en su carta a Hernán Siles Zuazo, el atraso boliviano proviene principalmente de:",
+        "respuesta": "La falta de desarrollo en el orden económico y humano que encierra Bolivia",
+        "incorrecta1": "La falta de explotación aurífera",
+        "incorrecta2": "La falta de una salida al mar",
+        "incorrecta3": "La situación geográfica de nuestro país"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "En la carta enviada por Simón I. Patiño al presidente Germán Busch ¿Cuál fue una de las principales labores de este empresario?",
+        "respuesta": "Devolver la administración de las minas en Bolivia a manos bolivianas",
+        "incorrecta1": "Elaborar joyería a partir de la minería boliviana",
+        "incorrecta2": "Reconducir el rumbo de la guerra con la dotación estratégica a ambos bandos en conflicto",
+        "incorrecta3": "Expandir su empresa minera a la explotación del Litio"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "El primer animal reconocido como homínido fue originario de:",
+        "respuesta": "África",
+        "incorrecta1": "Europa",
+        "incorrecta2": "Asia",
+        "incorrecta3": "América"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Las escrituras conocidas por los cristianos como el Antiguo Testamento es una colección de libros escritos propios de la cultura:",
+        "respuesta": "Hebrea",
+        "incorrecta1": "Griega",
+        "incorrecta2": "Egipcia",
+        "incorrecta3": "China"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "El general Ballivián falleció a raíz de lo que los médicos determinaron en su tiempo como Fiebre Amarrilla; generándose su deceso en:",
+        "respuesta": "Rio de la Plata",
+        "incorrecta1": "Río de Janeiro",
+        "incorrecta2": "Salta",
+        "incorrecta3": "Cusco"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué vicepresidente fue objeto de una orden de Destierro?",
+        "respuesta": "José de Ballivián",
+        "incorrecta1": "Aniceto Arce",
+        "incorrecta2": "Mariano Baptista",
+        "incorrecta3": "Tomás Frías"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Seleccione al personaje histórico que corresponde como figura heroica en la guerrera del pacifico.",
+        "respuesta": "Eduardo Abaroa",
+        "incorrecta1": "Adolfo Ballivián",
+        "incorrecta2": "Aniceto Arce",
+        "incorrecta3": "Mariano Melgarejo"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿A quién dirige la carta del Che Guevara en 1967 en la que augura una posible despedida?",
+        "respuesta": "A sus padres",
+        "incorrecta1": "A Carlos Marx",
+        "incorrecta2": "A las fuerzas armadas bolivianas",
+        "incorrecta3": "Al pueblo argentino"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Entre 2370 y el 2200 bajo el reino de Sargón de Agade se utilizó por primera vez la escritura con propósitos diferentes al:",
+        "respuesta": "Comercial",
+        "incorrecta1": "Militar",
+        "incorrecta2": "Pesca",
+        "incorrecta3": "Arquitectónico"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Mediante la carta de 12 de febrero de 1937 el vicepresidente Mariano Enrique Calvo advierte al General Andrés de Santa Cruz las intenciones de Chile expresadas a través de su gabinete en el que instruían la inmersión en asuntos de estado interno y orientada específicamente a las revoluciones en:",
+        "respuesta": "Perú y Bolivia",
+        "incorrecta1": "Brasil y Bolivia",
+        "incorrecta2": "Ecuador y Perú",
+        "incorrecta3": "Paraguay y Bolivia"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Rafael Bustillo ya pone en advertencia en 1872 de las intenciones expansionistas de Chile y del poco respeto militar que se tenía para con Bolivia augurando una futura guerra por territorios costeros y aconseja:",
+        "respuesta": "Una alianza con Perú",
+        "incorrecta1": "Una alianza con Brasil",
+        "incorrecta2": "Una alianza con Venezuela",
+        "incorrecta3": "Una alianza con Argentina"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "La revolución científica alteró las condiciones del pensamiento y la existencia material de la vida. Otros descubrimientos, como los de Galileo y Kepler hicieron que se impusiera como nueva filosofía:",
+        "respuesta": "La duda",
+        "incorrecta1": "La obediencia a las sagradas escrituras",
+        "incorrecta2": "La obediencia a la iglesia",
+        "incorrecta3": "La obediencia al rey"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "José Antonio de Sucre escribe al Libertador Bolívar después de convocar los Pueblos del Alto Perú pidiendo.",
+        "respuesta": "Acabar la guerra con los españoles e ir a su casa de simple ciudadano",
+        "incorrecta1": "Una retribución económica para su retiro inmediato e inminente",
+        "incorrecta2": "Dirigir el ejército libertador desde Buenos Aires",
+        "incorrecta3": "Gobernar estas provincias"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Los tres segmentos de la clase más alta de Egipto que recibían educación eran:",
+        "respuesta": "Los escribas, sacerdotes y militares",
+        "incorrecta1": "Los sirvientes reales, sacerdotes y militares",
+        "incorrecta2": "Los escribas, sacerdotes y médicos",
+        "incorrecta3": "Los médicos, sacerdotes y militares"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Para la creación de ROMA, la aristocracia local estableció una monarquía independiente de la dinastía etrusca. Se creó una nueva constitución que se elaboró cuidadosamente para prevenir:",
+        "respuesta": "La ascensión de un nuevo rey o tirano",
+        "incorrecta1": "La protección de Derechos Humanos Sociales",
+        "incorrecta2": "El dominio de familias reales extranjeras",
+        "incorrecta3": "La determinación de competencias de sus autoridades públicas"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "En un momento en que la sociedad europea y la autoridad política entraban en una nueva fase. En 1095, el papa Urbano II proclamó una cruzada contra:",
+        "respuesta": "Los turcos",
+        "incorrecta1": "Los romanos",
+        "incorrecta2": "Los japoneses",
+        "incorrecta3": "Los españoles"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver los sistemas siguientes:",
+        "respuesta": "x = 5 ; y = 4",
+        "incorrecta1": "x = 1 ; y = 5",
+        "incorrecta2": "x = 3 ; y = 2",
+        "incorrecta3": "x = 1 ; y = 2",
+        "imagen": "36_1.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver los sistemas siguientes:",
+        "respuesta": "x = 6  ; y = 8",
+        "incorrecta1": "x = 6 ; y = 4",
+        "incorrecta2": "x = 7 ; y = 4",
+        "incorrecta3": "x = 5 ; y = 8",
+        "imagen": "37_1.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Simplificar:",
+        "respuesta": "(m+n) / (m-n)",
+        "incorrecta1": "1",
+        "incorrecta2": "2m / (m+n)",
+        "incorrecta3": "2m / (m-n)",
+        "imagen": "38_1.png",
+        "objectFit": "contain"
+    },
+     {
+        "categoria": "Física",
+        "pregunta": "Un esquiador parte del reposo y se desliza 9.0 m hacia abajo, por una pendiente, en 3.0 s. ¿Cuánto tiempo, después del inicio, el esquiador habrá adquirido una velocidad de 24 m/s? Considere la aceleración constante y la trayectoria recta.",
+        "respuesta": "12 s",
+        "incorrecta1": "30 s",
+        "incorrecta2": "10 s",
+        "incorrecta3": "15 s"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Un automovilista observa en un momento determinado que 1/5 de lo recorrido equivale a 3/5 de lo que falta por recorrer. ¿Cuántas horas habrá empleado hasta ese momento, si todo el viaje lo hace en 12horas?",
+        "respuesta": "9h",
+        "incorrecta1": "7h",
+        "incorrecta2": "4h",
+        "incorrecta3": "19h"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Se desea aplicar una aceleración de 0.70 m/s a un objeto de 600 N. ¿De qué magnitud debe ser la fuerza no balanceada que actúa sobre él?",
+        "respuesta": "43 N",
+        "incorrecta1": "34 N",
+        "incorrecta2": "14 N",
+        "incorrecta3": "40 N"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "Considere la combustión del monóxido de carbono (CO) en oxígeno gaseoso: 2CO(g) + O<sub>2</sub>(g) → 2CO<sub>2</sub>(g) <br>Si la reacción se inicia con 3,6 moles de CO, calcule el número de moles de CO<sub>2</sub> que se producen si hay suficiente oxígeno para reaccionar con todo el CO.",
+        "respuesta": "3,6 moles",
+        "incorrecta1": "9,3 moles",
+        "incorrecta2": "7,6 moles",
+        "incorrecta3": "6,3 moles"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es la fórmula empírica de cada uno de los compuestos que tiene la siguiente composición?  <br>a) 40,1% de C, 6,6% de H y 53,3% de O. <br>b) 18,4% de C, 21,5% de N y 60,1 % de K.",
+        "respuesta": "CH<sub>2</sub>O",
+        "incorrecta1": "CHO",
+        "incorrecta2": "C<sub>2</sub>HO",
+        "incorrecta3": "CHO<sub>2</sub>"
+    },
+     {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es la presión osmótica (en atm) de una disolución acuosa de urea [(NH<sub>2</sub>)<sub>2</sub>CO] 1,36 M a 22°C?",
+        "respuesta": "32,92 atm",
+        "incorrecta1": "9,2 atm",
+        "incorrecta2": "3,9 atm",
+        "incorrecta3": "29,2 atm"
+    },
+     {
+        "categoria": "Literatura",
+        "pregunta": "Desde una noción intuitiva, según Simone (1993: 4), el lenguaje es la facultad de asociar el contenido a la expresión con la finalidad de:",
+        "respuesta": "Manifestarlo",
+        "incorrecta1": "Estudiarlo",
+        "incorrecta2": "Analizarlo",
+        "incorrecta3": "Entenderlo"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "El habla viene a ser la realización o materialización de la lengua; en esta realización, la lengua adopta rasgos particulares porque el habla es un acto individual de:",
+        "respuesta": "Voluntad, inteligencia y psicofisiológico",
+        "incorrecta1": "Imposición, negligencia y psicofisiológico",
+        "incorrecta2": "Imposición, inteligencia y psicofisiológico",
+        "incorrecta3": "Voluntad, inteligencia y capacidad física para producir el mensaje oral"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Morfológicamente, el GÉNERO y NÚMERO del adjetivo son muy similares a los del:",
+        "respuesta": "Sustantivo",
+        "incorrecta1": "Complemento Circunstancial",
+        "incorrecta2": "Verbo",
+        "incorrecta3": "Predicado"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Saussure concibió a los signos lingüísticos como la asociación de:",
+        "respuesta": "Una imagen acústica o significante y una imagen mental o significado",
+        "incorrecta1": "Una imagen acústica o significante, una imagen mental o significado y un sonido acústico o significante",
+        "incorrecta2": "Un sonido acústico o significante y una imagen mental o significado",
+        "incorrecta3": "Una imagen visual (necesariamente mostrado por el emisor de forma gráfica) o significante y una imagen mental o significado"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Este tipo de verbo expresa una acción intransitiva, pues no retorna a la persona que realizó dicha acción.",
+        "respuesta": "Cuasireflejo",
+        "incorrecta1": "Reflexivo",
+        "incorrecta2": "Recíproco",
+        "incorrecta3": "Intransitivo"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Esta característica refiere que el signo lingüístico puede mutar con el paso del tiempo, esto debido al uso que le da el humano en sus interrelaciones sociales a través del tiempo.",
+        "respuesta": "Mutabilidad",
+        "incorrecta1": "Inmutabilidad",
+        "incorrecta2": "Convencionalidad",
+        "incorrecta3": "Arbitrariedad"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Significa el acuerdo tomado previamente por la sociedad para dar una determinada significación a una unidad del lenguaje, tales como la palabra.",
+        "respuesta": "Convencionalidad",
+        "incorrecta1": "Inmutabilidad",
+        "incorrecta2": "Arbitrariedad",
+        "incorrecta3": "Mutabilidad"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "La mayoría de las oraciones se pueden dividir en sintagma nominal (sujeto) y sintagma:",
+        "respuesta": "Adverbal (predicado)",
+        "incorrecta1": "Colineal",
+        "incorrecta2": "Paraverbal",
+        "incorrecta3": "Correlacional"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Una de las características de las lenguas es la variabilidad que se da en el tiempo, en el espacio y a nivel social, una de estas variaciones es la variación diacrónica que indica que:",
+        "respuesta": "Las lenguas cambian en el tiempo",
+        "incorrecta1": "Las lenguas cambian en el espacio",
+        "incorrecta2": "Las lenguas cambian en el nivel social",
+        "incorrecta3": "Designa a las características propias del individuo al usar una determinada lengua"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "La morfología estudia la forma interna de:",
+        "respuesta": "Las palabras y la función que cumplen",
+        "incorrecta1": "De la estructura social lingüística",
+        "incorrecta2": "De la composición del idioma y su relación con sus predecesores",
+        "incorrecta3": "De los fonemas y su implicancia en el mensaje"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Los Adjetivos que describen al sustantivo su cualidad permanente o transitoria son:",
+        "respuesta": "Calificativos",
+        "incorrecta1": "Intuitivo",
+        "incorrecta2": "Explicativo",
+        "incorrecta3": "Especificativo"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "El lenguaje articulado por medios vocálicos.",
+        "respuesta": "Es exclusivo de la raza humana",
+        "incorrecta1": "Lenguaje de señas",
+        "incorrecta2": "Es la traba del desarrollo humano",
+        "incorrecta3": "Puede realizarse en toda su complejidad por mamíferos"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Entre las funciones que complementan sustantivamente al Lenguaje se encuentra la Representativa (informativa, referencial, cognitiva) que está orientada hacia:",
+        "respuesta": "El contexto",
+        "incorrecta1": "El hablante",
+        "incorrecta2": "El canal",
+        "incorrecta3": "El oyente"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Los gramemas (tradicionalmente conocidos como desinencias o sufijos flexionales), siguiendo a Pottier, son llamados también:",
+        "respuesta": "Morfemas constitutivos",
+        "incorrecta1": "Morfemas facultativos",
+        "incorrecta2": "Los afijos",
+        "incorrecta3": "Morfema lexica"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Según el espacio, los tipos de comunicación pueden ser Directa o Indirecta, siendo la indirecta en la que el E y R no tienen proximidad física; están separados por:",
+        "respuesta": "Tiempo o Espacio",
+        "incorrecta1": "Intencionalidad del mensaje",
+        "incorrecta2": "Diferencias ideológicas",
+        "incorrecta3": "Mensajes subliminales"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "La universidad como institución, es el resultado de un largo proceso de reorganización social y cultural, encuentra principalmente su fundamento en la enseñanza de:",
+        "respuesta": "Filosofía y literatura de origen griego",
+        "incorrecta1": "Estudio del derecho romano",
+        "incorrecta2": "Formación en las artes de la guerra",
+        "incorrecta3": "Análisis matemáticos de origen árabe"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "La más antigua de las ciudades fenicias, Biblos, se hizo famosa por su manufactura de:",
+        "respuesta": "Libros",
+        "incorrecta1": "Vino",
+        "incorrecta2": "Armas",
+        "incorrecta3": "Pan"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "La segunda guerra mundial termino el:",
+        "respuesta": "14 de agosto de 1945",
+        "incorrecta1": "14 de agosto de 1845",
+        "incorrecta2": "06 de agosto de 1925",
+        "incorrecta3": "14 de agosto de 1950"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "La cultura del hombre primitivo, de cazadores y recolectores, se denomina Paleolítico o cultura de la:",
+        "respuesta": "Vieja Edad de Piedra",
+        "incorrecta1": "Edad de bronce",
+        "incorrecta2": "Nueva Edad de Piedra",
+        "incorrecta3": "Neolítico"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "En el renacimiento la reforma de la iglesia produjo una expansión de las ordenes clericales mediante el estímulo al establecimiento de iglesias:",
+        "respuesta": "Y el mejoramiento de la administración eclesiástica",
+        "incorrecta1": "El cambio de la religión",
+        "incorrecta2": "Y el incremento de interpretaciones bíblicas en varios idiomas",
+        "incorrecta3": "E incremento de feligreses"
+    },
+     {
+        "categoria": "Historia",
+        "pregunta": "¿Qué países intervinieron en la guerra del pacífico?",
+        "respuesta": "Chile, Bolivia y Perú",
+        "incorrecta1": "Chile, Bolivia y Brasil",
+        "incorrecta2": "Chile, Bolivia y Argentina",
+        "incorrecta3": "Chile, Bolivia y Paraguay"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "La Según guerra mundial fue iniciada (entre otras cosas) por la política expansionista alemana e impulsada principalmente por:",
+        "respuesta": "Joseph Goebbels",
+        "incorrecta1": "Benito Musolini",
+        "incorrecta2": "Iósif Stalin",
+        "incorrecta3": "Adolf Hitler"
+    },
+     {
+        "categoria": "Historia",
+        "pregunta": "En palabras de Carlos Montenegro, la causa de la guerra del Chaco no fue un \"cuadrillazo internacional\" sino:",
+        "respuesta": "Intención de la Standard Oil para imponer a la Argentina abrir su mercado petrolífero",
+        "incorrecta1": "El alto precio del guano y su potencial aporte a la Economía Boliviana",
+        "incorrecta2": "Intereses de Brasil sobre el petróleo boliviano",
+        "incorrecta3": "Intereses geopolíticos de Uruguay"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Aproximadamente hacia el año 510 a.n.e., Tras la muerte de Alejandro y la desintegración del imperio griego en reinos; la Aristocracia local en Europa estableció una república independiente de la dinastía etrusca para dar lugar a la nueva civilización:",
+        "respuesta": "Romana",
+        "incorrecta1": "Hispana",
+        "incorrecta2": "Vikinga",
+        "incorrecta3": "Germánica"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Una de las principales razones por las que se gestó la independencia de Estados Unidos fue:",
+        "respuesta": "El intento razonable del gobierno inglés por conseguir nuevos ingresos de las colonias americanas",
+        "incorrecta1": "La independencia de países en América Latina por Simón Bolívar",
+        "incorrecta2": "La imposición de un sistema democrático de estado unitario gobernado desde Inglaterra",
+        "incorrecta3": "La proliferación del judaísmo en el nuevo contiene"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Adolfo Ballivián, cansado de la situación política de nuestro país escribe a Mariano Melgarejo una carta en 1863 en la que lo invita a hacer frente ante la inminente dominación de Belzu que conduciría (según lo refiere Ballivián) a la ruina de Bolivia.",
+        "respuesta": "Mediante una revolución armada (golpe de estado)",
+        "incorrecta1": "Mediante la salida del presidente por presión de cartas dirigidas a la OEA",
+        "incorrecta2": "Mediante la reformulación del sistema de gobierno al socialismo",
+        "incorrecta3": "Mediante debates en elecciones presidenciales"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Canadá perteneció en primero instancia a:",
+        "respuesta": "Francia",
+        "incorrecta1": "Gran Bretaña",
+        "incorrecta2": "Los Estados Unidos de América",
+        "incorrecta3": "Italia"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "El presidente Pedro Blanco Soto ante la insurrección en Oruro se constituyó en el mismo:",
+        "respuesta": "Cargando contra los insurgentes y siendo herido en el brazo",
+        "incorrecta1": "Generando dialogo y estableciendo acuerdos de partes para resolver el conflicto",
+        "incorrecta2": "Negociando y accediendo a las solicitudes",
+        "incorrecta3": "En compañía de un regimiento armado para someter y controlar dicha insurgencia"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Simplificar:",
+        "respuesta": "4/(x<sup>2</sup>+10)",
+        "incorrecta1": "2/(x+10)",
+        "incorrecta2": "4/x<sup>2</sup>",
+        "incorrecta3": "x(x<sup>3</sup>+10)",
+        "imagen": "37_2.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Suprimir paréntesis y reducir términos semejantes:",
+        "respuesta": "10x - 2y - 5z",
+        "incorrecta1": "10x - 2y",
+        "incorrecta2": "x - 2y + 5z",
+        "incorrecta3": "8x + 2y - 5z",
+        "imagen": "38_2.png"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver las ecuaciones siguientes:",
+        "respuesta": "X = (21/8)",
+        "incorrecta1": "X = (1/8)",
+        "incorrecta2": "X = (3/8)",
+        "incorrecta3": "X = (5/8)",
+        "imagen": "39_2.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Si: A = -12i + 25j + 13k y B = -3i + 7j, encuentre la resultante cuando se resta A de B.",
+        "respuesta": "12i - 28j - 6k",
+        "incorrecta1": "10i - 20j - 6k",
+        "incorrecta2": "12i + 28j - 6k",
+        "incorrecta3": "12i + 28j + 6k"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Cambie la rapidez 0.200 cm/s a unidades de kilómetros por año.",
+        "respuesta": "63.1 km/a",
+        "incorrecta1": "60 km/a",
+        "incorrecta2": "50.15 km/a",
+        "incorrecta3": "70 km/a"
+    },
+    {
+        "categoria": "Quimica",
+        "pregunta": "Calcule el número de átomos de C en 1,50 g del azúcar glucosa (C<sub>6</sub>H<sub>12</sub>0<sub>6</sub>).",
+        "respuesta": "3,011*10<sup>22</sup> átomos C",
+        "incorrecta1": "3,0011*10<sup>24</sup> átomos C",
+        "incorrecta2": "3,0011*10<sup>21</sup> átomos C",
+        "incorrecta3": "3,0011*10<sup>23</sup> átomos C"
+
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Realice la siguiente conversión: 10,6 kg/m<sup>3</sup> a g/cm<sup>3</sup>",
+        "respuesta": "0,0106 g/cm<sup>3</sup>",
+        "incorrecta1": "0,106 g/cm<sup>3</sup>",
+        "incorrecta2": "1,06 g/cm<sup>3</sup>",
+        "incorrecta3": "10,06 g/cm<sup>3</sup>"
+    },
+    {
+        "categoria": "Quimica",
+        "pregunta": "Calcule la masa molecular (en uma) del Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        "respuesta": "310 uma",
+        "incorrecta1": "31 uma",
+        "incorrecta2": "248 uma",
+        "incorrecta3": "24,8 uma"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Hace referencia a la persona que de modo pasivo responde a las intenciones del emisor.",
+        "respuesta": "Receptor",
+        "incorrecta1": "Perceptor",
+        "incorrecta2": "Oyente",
+        "incorrecta3": "Radioescucha"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Por su extensión según el criterio semántico, los sustantivos pueden ser clasificados en Comunes y Propios; siendo los comunes.",
+        "respuesta": "Nombran a los seres de manera genérica",
+        "incorrecta1": "Designa a una persona con pocas cualidades diferenciadoras",
+        "incorrecta2": "Designa a un ser en particular, diferenciándolo de otros de su misma especie",
+        "incorrecta3": "Nombra a las especies más comunes dentro del habla hispana"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Los Adjetivos que se utilizan cuando queremos dar mayor importancia al sustantivo son:",
+        "respuesta": "Especificativo",
+        "incorrecta1": "Explicativo",
+        "incorrecta2": "Calificativos",
+        "incorrecta3": "Intuitivo"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Es una estructura encabezada siempre por las preposiciones \"a\" o \"para\", y recibe en forma indirecta la acción del verbo.",
+        "respuesta": "Objeto Indirecto",
+        "incorrecta1": "Predicativo",
+        "incorrecta2": "Complemento Circunstancial",
+        "incorrecta3": "Objeto Directo"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Cuando nos ocupamos de la estructura y la combinación de los componentes de una oración, estamos estudiando lo que se conoce técnicamente como:",
+        "respuesta": "La sintaxis de la lengua",
+        "incorrecta1": "La morfología",
+        "incorrecta2": "La gramática",
+        "incorrecta3": "La semántica"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "\"Lengua\" es un término imposible de definir con precisión; sin embargo, nos podría bastar intuitivamente esta definición de lengua: una lengua es un consenso social, existe solamente en la:",
+        "respuesta": "Existe solamente en la diversidad",
+        "incorrecta1": "Existe solamente de forma fotográfica",
+        "incorrecta2": "Existe solamente de forma escrita",
+        "incorrecta3": "Existe solamente en la homogeneidad"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Las palabras son capaces de variar su propia forma y contenido según el entorno sintagmático en el que aparecen, esto es estudiado por la:",
+        "respuesta": "Morfología",
+        "incorrecta1": "Sintaxis",
+        "incorrecta2": "Lengua",
+        "incorrecta3": "Fonología"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "\"El lenguaje nos permite hacer referencia a tiempo y espacio distintos a los del acto del habla, de esta propiedad están privados los otros seres\" esto corresponde a la Característica de:",
+        "respuesta": "Desplazamiento",
+        "incorrecta1": "Carácter Innato",
+        "incorrecta2": "Es aprendido",
+        "incorrecta3": "Universalidad"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Un verbo es regular cuando su raíz no se modifica y las terminaciones son las propias de ciertos verbos llamados modelos, como, por ejemplo:",
+        "respuesta": "Cantar",
+        "incorrecta1": "Tener",
+        "incorrecta2": "Contar",
+        "incorrecta3": "Ir"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Una de las características de las lenguas es la variabilidad que se da en el tiempo, en el espacio y a nivel social, una de estas variaciones es la Variación diafásica que indica que:",
+        "respuesta": "Designa a las características propias del individuo al usar una determinada lengua",
+        "incorrecta1": "Las lenguas cambian en el espacio",
+        "incorrecta2": "Las lenguas cambian en el tiempo",
+        "incorrecta3": "Las lenguas cambian en el nivel social"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Son aquellas que afirman o niegan.",
+        "respuesta": "Oración enunciativa",
+        "incorrecta1": "Oración desiderativa",
+        "incorrecta2": "Oración exhortativa",
+        "incorrecta3": "Oración dubitativa"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Por su naturaleza según el criterio semántico, los sustantivos pueden ser clasificados en Concretos y Abstractos; siendo los Abstractos:",
+        "respuesta": "Aquellos que nombran a seres de existencia dependiente, no real, imperceptibles por los sentidos",
+        "incorrecta1": "Los que nombran a los seres de manera genérica",
+        "incorrecta2": "Los que nombran a seres que tienen existencia independiente, real, perceptible por los sentidos",
+        "incorrecta3": "Aquellos que nombran a personajes particulares"
+    },
+    {
+        "categoria": "Literatura",
+        "pregunta": "Es la palabra o estructura que recibe directamente la acción del verbo.",
+        "respuesta": "Objeto Directo",
+        "incorrecta1": "Objeto Indirecto",
+        "incorrecta2": "Predicativo",
+        "incorrecta3": "Complemento Circunstancial"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "En 1704 se publicó Optiks, una obra que sustenta el desarrollo de los conocimientos sobre el calor, la luz, la electricidad, el magnetismo y los átomos químicos, esta fue producida por:",
+        "respuesta": "Issac Newton",
+        "incorrecta1": "René Descartes",
+        "incorrecta2": "Galileo Galilei",
+        "incorrecta3": "Johannes Kepler"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "El total colapso del imperio romano sobrevino en 1204. En 1453, cayó Constantinopla en manos de fuerzas militares.",
+        "respuesta": "Árabes",
+        "incorrecta1": "Chinas",
+        "incorrecta2": "Hispanas",
+        "incorrecta3": "Germánicas"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Los sumerios desarrollaron la escritura como vía para registrar el curso de las complicadas:",
+        "respuesta": "Transacciones Comerciales",
+        "incorrecta1": "Estructuras arquitectónicas",
+        "incorrecta2": "Operaciones Militares",
+        "incorrecta3": "Planificaciones marítimas"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fue el emperador de Grecia denominado como \"El Grande\"?",
+        "respuesta": "Alejandro Magno",
+        "incorrecta1": "Constantino I",
+        "incorrecta2": "Constantino II",
+        "incorrecta3": "Otón I"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "El territorio del Vaticano (estados pontificios), se obtuvo mediante:",
+        "respuesta": "Una donación de Roma",
+        "incorrecta1": "Negociación a cambio de la administración de Jerusalén",
+        "incorrecta2": "Interpretación de un mensaje divino por el emperador Constantino II",
+        "incorrecta3": "Conquista con los caballeros Templarios"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "En 1215, en Inglaterra, se confirmó un documento trascendental para la historia de sociedad moderna cuyos principios fundamentales aseguraban que el rey gobernaba con el consejo de los barones estableciendo como principio que el gobierno inglés se basaría en leyes y que el rey tendría la obligación de gobernar de acuerdo a estas. ¿Cuál es el nombre de este documento?",
+        "respuesta": "Carta Magna",
+        "incorrecta1": "Constitución Política del Estado",
+        "incorrecta2": "Acuerdo de Versalles",
+        "incorrecta3": "Declaración internacional de los Derechos del Hombre"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántas veces fue intentado quemar el Palacio de Gobierno en 1875 antes de tener éxito?",
+        "respuesta": "Siete",
+        "incorrecta1": "Catorce",
+        "incorrecta2": "Nueve",
+        "incorrecta3": "Dos"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Entre los términos del Gobierno Chileno para culminar con la guerra resaltaban 3 compensaciones principales de Chile en favor de Bolivia siendo estas:",
+        "respuesta": "Pago de varias obligaciones de Bolivia, una suma de dinero para construir un ferrocarril y un puerto franco para los productos y mercaderías para Bolivia",
+        "incorrecta1": "Pago de varias obligaciones de Bolivia, puerto franco para los productos y mercaderías para Bolivia y una compensación para los gobernantes bolivianos",
+        "incorrecta2": "Pago de varias obligaciones de Bolivia, la entrega de parte de una extensión territorial chilena y una compensación para los gobernantes bolivianos",
+        "incorrecta3": "Condonación de deudas bolivianas a Chile, una suma de dinero para construir un camino para transporte pesado desde el puerto hasta Bolivia y un puerto con tasas ínfimas para los productos y mercaderías para Bolivia\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Los sumerios crearon enormes templos de piedra, diseñaron esculturas y utilizaron el cobre y la plata para elaborar diferentes tipos de vasijas. (entre sus más importantes aportes) También desarrollaron:",
+        "respuesta": "La agricultura con sistema de rotación de tierras",
+        "incorrecta1": "La horticultura",
+        "incorrecta2": "La artillería",
+        "incorrecta3": "La apicultura"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Juana Azurduy de Padilla, después de haber librado varias batallas en pro de la libertad en Bolivia falleció:",
+        "respuesta": "En estado de miseria",
+        "incorrecta1": "En su domicilio en Cochabamba",
+        "incorrecta2": "En estado de ostentosidad",
+        "incorrecta3": "Junto con su esposo e hijos"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Desde 1321 a 1527 establecieron un estilo en la arquitectura, la escultura y la pintura, dotaron el gusto literario y la filosofía educacional que siguieron los europeos durante siglos.",
+        "respuesta": "Los italianos",
+        "incorrecta1": "Los griegos",
+        "incorrecta2": "Los españoles",
+        "incorrecta3": "Los egipcios"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Según la carta enviada por el ministro del interior Facundo Infante al prefecto de Oruro, ante la insurrección de la tropa que guarnecía esa capital, solicita que las tropas más inmediatas viniesen en auxilio de esa capital, siendo estas tropas procedentes de:",
+        "respuesta": "Potosí",
+        "incorrecta1": "Santa Cruz",
+        "incorrecta2": "La Paz",
+        "incorrecta3": "Cochabamba"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver las siguientes ecuaciones:",
+        "respuesta": "x = -3",
+        "incorrecta1": "x = -2",
+        "incorrecta2": "x = 3",
+        "incorrecta3": "x = 1",
+        "imagen": "36_3.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver los sistemas siguientes:",
+        "respuesta": "x = (k/a) ; y = 0",
+        "incorrecta1": "x = 0 ; y = 0",
+        "incorrecta2": "x = a ; y = k",
+        "incorrecta3": "x = k ; y = a",
+        "imagen": "37_3_1.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Hallar la suma algebraica:",
+        "respuesta": "-(17/10)",
+        "incorrecta1": "2",
+        "incorrecta2": "3/2",
+        "incorrecta3": "-(6/7)",
+        "imagen": "38_3.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Resolver las ecuaciones siguientes:",
+        "respuesta": "x = 3",
+        "incorrecta1": "x = 1",
+        "incorrecta2": "x = 4",
+        "incorrecta3": "x = 2",
+        "imagen": "39_3.png",
+        "objectfit":"contain"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Dos móviles cuyas velocidades son 12 m/s y 9 m/s viajan sobre vías perpendiculares, después de cuanto tiempo de haberse cruzado distarán de 900 m.",
+        "respuesta": "2s",
+        "incorrecta1": "3s",
+        "incorrecta2": "1s",
+        "incorrecta3": "1,5s"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Encuentre el peso de un cuerpo, si su masa en la Tierra es 3.00 kg",
+        "respuesta": "29.4 N",
+        "incorrecta1": "30.5 N",
+        "incorrecta2": "45.0 N",
+        "incorrecta3": "45.5 N"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién escribió La Odisea?",
+        "respuesta": "fue escrito por Homero",
+        "incorrecta1": "fue escrito por Nicolai Gogol",
+        "incorrecta2": "fue escrito por Carlos Fuentes",
+        "incorrecta3": "fue escrito por Francisco de Quevedo"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "respuesta": "Amazonas",
+        "incorrecta1": "Nilo",
+        "incorrecta2": "Misisipi",
+        "incorrecta3": "Obi"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién pintó \"la última cena\"?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Miguel Ángel",
+        "incorrecta2": "Artemisia Gentileschi",
+        "incorrecta3": "Jmw Turner"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cómo se denomina el resultado de la multiplicación?",
+        "respuesta": "Producto",
+        "incorrecta1": "Factor",
+        "incorrecta2": "Operación",
+        "incorrecta3": "Sumando"
+    }, 
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es el océano más grande?",
+        "respuesta": "Océano Pacífico",
+        "incorrecta1": "Océano Atlántico",
+        "incorrecta2": "Océano Índico",
+        "incorrecta3": "Océano Antártico"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué año llegó Cristóbal Colón a América?",
+        "respuesta": "1492",
+        "incorrecta1": "1493",
+        "incorrecta2": "1592",
+        "incorrecta3": "1472"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué se especializa la cartografía?",
+        "respuesta": "Es la ciencia que estudia los mapas",
+        "incorrecta1": "Es la ciencia que estudia los huesos",
+        "incorrecta2": "Es la ciencia que estudia la materia",
+        "incorrecta3": "Es la ciencia que estudia a la madre tierra, sus propiedades y leyes"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Si 50 es el 100%, ¿cuánto es el 90%?",
+        "respuesta": "45",
+        "incorrecta1": "50",
+        "incorrecta2": "10",
+        "incorrecta3": "44"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es tercer planeta en el sistema solar?",
+        "respuesta": "Tierra",
+        "incorrecta1": "Marte",
+        "incorrecta2": "Júpiter",
+        "incorrecta3": "Saturno"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es país más poblado de la Tierra?",
+        "respuesta": "China",
+        "incorrecta1": "Japón",
+        "incorrecta2": "Corea del Norte",
+        "incorrecta3": "Corea del Sur"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué rama de la Biología estudia los animales?",
+        "respuesta": "Zoología",
+        "incorrecta1": "Citología",
+        "incorrecta2": "Botánica",
+        "incorrecta3": "Cuántica"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Con qué se fabricaba el pergamino?",
+        "respuesta": "Con las pieles de animales",
+        "incorrecta1": "Con la celulosa en forma de fibra",
+        "incorrecta2": "Con una mezcla de arena silícea o arcilla con óxidos metálicos secos pulverizados",
+        "incorrecta3": "Con la policondensación de un diácido con una diamina"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué país se encuentra el famoso monumento Taj Mahal?",
+        "respuesta": "India",
+        "incorrecta1": "Italia",
+        "incorrecta2": "México",
+        "incorrecta3": "Japón"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién va a la cárcel: el imputado, el acusado, el condenado?",
+        "respuesta": "El condenado",
+        "incorrecta1": "El imputado",
+        "incorrecta2": "El acusado",
+        "incorrecta3": "Ninguno"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuál es el primero de la lista de los números primos?",
+        "respuesta": "2",
+        "incorrecta1": "4",
+        "incorrecta2": "6",
+        "incorrecta3": "3"
+    },
+    {
+        "categoria": "Física",
+        "pregunta": "Es el proceso de compresión mediante el cual la temperatura se mantiene constante pero el volumen y la presión varían.",
+        "respuesta": "Proceso isotérmico",
+        "incorrecta1": "Proceso isobárico",
+        "incorrecta2": "Proceso isoentálpico",
+        "incorrecta3": "Proceso isoentrópico"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántos años duró la Primera Guerra Mundial?",
+        "respuesta": "De 1914 a 1918",
+        "incorrecta1": "De 1914 a 1920",
+        "incorrecta2": "De 1914 a 1921",
+        "incorrecta3": "De 1915 a 1917"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "¿Cuántos lados tiene un heptágono?",
+        "respuesta": "7 lados",
+        "incorrecta1": "3 lados",
+        "incorrecta2": "6 lados",
+        "incorrecta3": "8 lados"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es el planeta más grande del Sistema Solar?",
+        "respuesta": "Júpiter",
+        "incorrecta1": "Marte",
+        "incorrecta2": "Mercurio",
+        "incorrecta3": "Saturno"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es el animal más grande de la Tierra?",
+        "respuesta": "ballena azul",
+        "incorrecta1": "Tarántula Goliat",
+        "incorrecta2": "Avestruz",
+        "incorrecta3": "Oso polar"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuándo se inventó la imprenta?",
+        "respuesta": "En el año 1440",
+        "incorrecta1": "En el año 1445",
+        "incorrecta2": "En el año 1450",
+        "incorrecta3": "En el año 1441"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuál es el mineral más duro del planeta?",
+        "respuesta": "El diamante",
+        "incorrecta1": "El oro",
+        "incorrecta2": "El azufre",
+        "incorrecta3": "El hierro"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuántos corazones tiene un gusano de tierra?",
+        "respuesta": "5",
+        "incorrecta1": "1",
+        "incorrecta2": "3",
+        "incorrecta3": "4"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cuándo llegó el hombre a la Luna?",
+        "respuesta": "El 16 de julio de 1969",
+        "incorrecta1": "El 14 de julio de 1969",
+        "incorrecta2": "El 15 de julio de 1965",
+        "incorrecta3": "El 11 de julio de 1978"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En qué país nació Adolf Hitler?",
+        "respuesta": "Austria",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Argelia",
+        "incorrecta3": "Angola"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el primer elemento de la tabla periódica?",
+        "respuesta": "hidrógeno",
+        "incorrecta1": "Plata",
+        "incorrecta2": "Plomo",
+        "incorrecta3": "Nitrógeno"
+    }
+]
